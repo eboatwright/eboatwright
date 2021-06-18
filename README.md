@@ -3,7 +3,7 @@ I'm proficient in:
   C# with Unity,
   Lua with Love2D and PICO-8,
   Java with LibGDX,
-  and, Python with Pygame.
+  and Python with Pygame.
 
 And I'm currently learning C# with Monogame.
 
