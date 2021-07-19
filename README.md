@@ -4,8 +4,7 @@ I'm proficient in:
   (Mostly) C# with Monogame,
   Lua with Love2D and PICO-8,
   Java with LibGDX,
-  and Python with Pygame.
-
-And I'm currently learning JavaScript, HTML5, and CSS3 while building my new framework! 😄
+  Python with Pygame,
+  HTML5, CSS3, and JavaScript.
 
 I also like doing Pixel Art. :)
