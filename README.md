@@ -7,5 +7,5 @@ Frameworks and Engines I know: <br />
 I also like doing Pixel Art. :)
 
 Play my latest game!
-https://eboatwright.itch.io/rs-tris
-![rs-tris](https://user-images.githubusercontent.com/64672325/152227177-32d6ad7e-998b-4047-9e5e-21d0d258ed86.png)
+https://eboatwright.itch.io/rs-tris <br>
+ ![rs-tris](https://user-images.githubusercontent.com/64672325/152227177-32d6ad7e-998b-4047-9e5e-21d0d258ed86.png)
