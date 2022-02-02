@@ -7,6 +7,5 @@ Frameworks and Engines I know: <br />
 I also like doing Pixel Art. :)
 
 Play my latest game!
-https://eboatwright.itch.io/miniland
-![coverImage](https://user-images.githubusercontent.com/64672325/132916929-386610c5-25d3-4b46-883d-12eb4eb9d0f9.png)
-
+https://eboatwright.itch.io/rs-tris
+https://img.itch.zone/aW1hZ2UvMTM2ODcwNi83OTY4ODAyLnBuZw==/347x500/SVYtuL.png
