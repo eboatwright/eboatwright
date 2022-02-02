@@ -8,4 +8,4 @@ I also like doing Pixel Art. :)
 
 Play my latest game!
 https://eboatwright.itch.io/rs-tris
-https://img.itch.zone/aW1hZ2UvMTM2ODcwNi83OTY4ODAyLnBuZw==/347x500/SVYtuL.png
+![rs-tris](https://user-images.githubusercontent.com/64672325/152227177-32d6ad7e-998b-4047-9e5e-21d0d258ed86.png)
