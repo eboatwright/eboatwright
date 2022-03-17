@@ -1,5 +1,9 @@
-Hello! I am @eboatwright. I like coding games, but I also code other things sometimes. <br />
-I know about a dozen languages, and I've tried out more than 2 dozen<br>
+[![eboatwright's GitHub stats](https://github-readme-stats.vercel.app/api?username=eboatwright&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Hello! I am @eboatwright. I like coding games, and game frameworks, but I also code other things sometimes.<br />
+I'm fluent* in about a dozen programming languages, including: Rust, Ruby, C#, Java, and JavaScript, and I've tried out more than 2 dozen programming languages, including: Zig, Haskell, and R<br>
+
 
 Play my latest game!
 https://eboatwright.itch.io/rs-tris <br>
