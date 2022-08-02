@@ -1,9 +1,3 @@
-Hello! I am @eboatwright. I like coding games, and game frameworks, but I also code other things sometimes.<br />
-I'm fluent* in about a dozen programming languages, including: Rust, Ruby, C#, Java, and JavaScript, and I've tried out more than 2 dozen programming languages, including: Zig, Haskell, and R<br>
-
-I'm currently learing Flutter & Dart
-
-
-Play my latest game!<br>
-https://eboatwright.itch.io/minesweeper-rs<br>
-![cover_image](https://user-images.githubusercontent.com/64672325/159137633-78b52991-2221-4b05-96c4-6a4ced8fa377.png)
+Hello, I'm eboatwright.<br>
+I do alot of different things, I've spent alot of time making games, but lately I've been making websites and phone apps in Flutter.<br>
+I've used lots of languages for certain projects, from C# to Rust, and Ruby to Java, and I've tried languages like Zig, Haskell, and D.<br>
